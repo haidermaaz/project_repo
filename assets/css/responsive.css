@@ -1,0 +1,450 @@
+
+  @media screen and (min-width: 1200px) and (max-width: 1399px){
+    .boxes-host{
+        padding-bottom: 100px;
+    }
+    .overlay{
+        bottom: -50px;
+    }
+    .ft-links-content{
+        padding-left: 50px;
+    }
+  } 
+  /*------------------------------------------for overlay------------------------------------*/
+     @media screen and (min-width: 1200px) and (max-width: 1500px){
+        
+        .content-btn{
+            width: 18%;
+        }
+
+    } 
+  /* ------------------------------------for container width on 1920 screen resoluition according to design------------------------------------*/
+  @media (min-width: 1900px){
+    .container.mwidth{
+        max-width: 1410px ;       
+    } 
+    .terms .end-list{
+        display: flex;
+        justify-content: unset;
+    }
+    .terms .end-list li{
+        margin: 0px 15px 0px 15px ;
+    }
+    .shut-text{
+    padding: 64px 0px 64px 0px;
+    }
+}
+
+  /* -----------------------------------------------------------queries by sir------------------------------------------------------------------*/
+  @media screen and (min-width: 320px) and (max-width: 575.98px) {
+    .background{
+        padding-bottom: 50px;
+    }
+    .text{
+        padding-top: 180px;
+        width: 100%;
+    }
+    .text p2{
+        font-size: 14px;
+    }
+    .text p3{
+        font-size: 18px;
+    }
+    .text p4{
+            font-size: 20px;
+    }
+    .text p1{
+        font-size: 32px !important;
+    }
+    .myclass{
+        justify-content: center;
+    }
+    .shut-text{
+        padding: 54px 0px 38px 0px;
+    }
+    .content{
+        padding-top: 50px;
+        padding-bottom: 30px;
+        width: 100%;;
+    }
+    .content .heading{
+        font-size: 28px;
+        padding: 10px 0px 10px 0px ;
+      }
+      
+    .btn-host{
+        padding-top: 30px;
+    }
+    .card-hos, .box, .shutter{
+        width: 100%;
+    }
+    .details{
+    padding: 20px 15px 31.5px 24px;
+    }
+    .circle-host{
+        padding-top: 45px;
+    }
+    .btn-host{
+        display: flex;
+        flex-direction: column;
+    }
+    .content-btn{
+        width: 100%;
+    }
+    .boxes-host{
+        padding-top: 70px;
+    }
+    .overlay-heading {
+        font-size: 20px !important;
+        text-align: center;
+    }
+    .get{
+        margin-right: 5px;
+        height: 40px;
+        width: 153px;
+    }
+    .background p1{
+        font-size: 55px;
+    }
+    .pages{
+        width: 85%;
+     }
+     
+    .services{
+        padding-bottom: 70px;
+    }
+    .bser-text{
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .best-heading{
+        font-size: 20px;
+    }
+    .leaf{
+        height: 106px;
+        width: 100px;
+        top: 90px   ;
+    }
+    .footer{
+        padding-top: 120px;
+    }
+    .overlay{
+        bottom: -62px;
+    }
+    #position-handling{
+        width: 95%;
+    }
+    .news-heading{
+        padding-bottom: 0px;
+    }
+    .con-heading, .links-heading, .serv-heading{
+        padding-bottom: unset;
+    }
+    .icon-list{
+        padding-left: unset;
+        justify-content: center;
+    }
+    .endbar{
+        padding-bottom:220px;
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    .terms .end-list{
+        display: unset; 
+        margin-top: 0px;
+        list-style: none;
+    }
+    .copy-right{
+        text-align: start;
+    }
+    .copy-right p{
+    margin-bottom: 0px !important;
+    }
+    .terms{
+        text-align: start;
+    }
+    
+    .left{
+        padding-right: 15px !important;
+     }
+     .ft-serv-content, .ft-links-content{
+        padding-left: unset;
+     }
+
+
+  }
+  @media screen and (min-width: 576px) and (max-width: 767.98px) {
+    .text{
+        padding-top: 170px;
+        width: 100%;
+    }
+    .background{
+        padding-bottom: 130px;
+    }
+    .myclass{
+        justify-content: center;
+    }
+    .content{
+        width: 100%;
+    }
+    .content .heading{
+        font-size: 31px;
+        padding: 10px 0px 10px 0px ;
+    }
+    .best-heading{
+        font-size: 41px;
+    }
+    .boxes-host{
+        padding-bottom: 140px;
+        padding-top: 60px;
+    }
+    
+    .btn-host{
+        display: flex;
+        flex-direction: column;
+    }
+    .content-btn{
+        width: 100%;
+    }
+    
+    .services{
+        padding-bottom: 70px;
+    }
+    .bser-text{
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .leaf{
+        height: 80% ;
+        top: 11%;
+    }
+    .pages{
+        width: 50%;
+     }
+     
+    .footer{
+        padding-top: 140px;
+    }
+    .overlay{
+        bottom: -110px;
+    }
+    .overlay .overlay-heading{
+        font-size: 41px ;
+    }
+    #position-handling{
+        width: 95%;
+    }
+    .get{
+        margin-right: 30px;
+    }
+    input[type = "email"]{
+        width: 77%;
+    }
+    
+    .news-heading{
+        padding-bottom: 0px;
+    }
+    .con-heading, .links-heading, .serv-heading{
+        padding-bottom: unset;
+    }
+    .icon-list{
+        padding-left: unset;
+        justify-content: center;
+    }
+    .terms .end-list{
+        justify-content: space-between;
+        margin-top: 0px;
+        list-style: none;
+    }
+    .copy-right{
+        text-align: start;
+    }
+    .copy-right p{
+    margin-bottom: 0px !important;
+    }
+    .terms{
+        text-align: start;
+    }
+    .left{
+        padding-right: 15px !important;
+     }
+     .ft-serv-content, .ft-links-content{
+        padding-left: unset;
+     }
+  }
+  @media screen and (min-width: 768px) and (max-width: 1023.98px) {
+    
+    .contact{
+        width: 137px;
+    }
+    .boxes-host{
+        padding-bottom: 165px;
+    }
+    .btn-host{
+        display: flex;
+        flex-direction: column;
+    }
+     
+    .content-btn{
+        width: 100%;
+    }
+    .pages{
+        width: 50%;
+     }
+    .services{
+        padding-bottom: 70px;
+    }
+    .bser-text{
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .leaf{
+        height: 100% ;
+    }
+    .overlay{
+        width: 92% !important;
+        bottom: -110px;
+    }
+    .overlay .heading{
+        width: 85%;
+        margin-right: 10px;
+    }
+    .get{
+        margin-right: 30px;
+    }
+    input[type = "email"]{
+        width: 77%;
+    }   
+    .terms .end-list{
+        justify-content: space-between;
+        margin-top: 0px;
+        list-style: none;
+    }
+    .copy-right{
+        text-align: start;
+    }
+    .copy-right p{
+    margin-bottom: 0px !important;
+    }
+    .terms{
+        text-align: start;
+    }
+
+
+  }
+  @media screen and (min-width: 1024px) and (max-width: 1200px) {
+   
+    .contact{
+        width: 137px;
+    }
+    .boxes-host{
+        padding-bottom: 115px !important;
+    }
+    .content-btn{
+        width: 128px;
+    }
+    .services{
+        padding-bottom: 70px;
+    }
+    .bser-text{
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .overlay{
+        width: 95% !important;
+        bottom: -85px !important   ;
+    }
+    .frm{
+        display: flex;
+    }
+    input[type = "email"]{
+    }
+    .subscribe{
+        margin-top: 30px;
+    }
+    .frm{
+        display: flex;
+    }
+    input[type = "email"]{
+    }
+    .subscribe{
+        margin-top: 30px;
+    }
+    #useful{
+        margin-right: -10px !important;
+    }
+    .endbar{
+        height: 70px;
+        display: flex;
+        justify-content: start;
+    }
+    .end-starting{
+        float:  none;
+        display: flex;
+        justify-content: start;
+    }  
+    .terms .end-list{
+        justify-content: space-between;
+        margin-top: 0px;
+        list-style: none;
+    }
+    .copy-right{
+        text-align: start;
+    }
+    .copy-right p{
+    margin-bottom: 0px !important;
+    }
+    .terms{
+        text-align: start;
+    } 
+
+
+  }
+    @media screen and (min-width: 1024px) and (max-width: 1200px) and (orientation: landscape){   
+        .shut-text{
+            padding: 50px 0px 45px 0px;
+        }
+        .bser-text{
+            width: 100% !important;
+        }
+        .maaz{
+            text-align: start;
+        }
+        .curve-pic{
+            background-image: url(../images/services/Img.png);
+            background-repeat: no-repeat;
+            background-size: 100% 93.5%;
+        }
+        
+            .leaf{
+            position: absolute;
+            left: 0px;
+            top: 32%;
+            height: 50%;
+            }
+        .service-btn-host{
+            text-align: center;
+        }
+        .vertical-box{
+            padding-bottom: 10px;
+        }
+        .overlay{
+            bottom: -50px !important;
+        }
+        .boxes-host{
+            padding-bottom: 95px;
+        }
+    }
+
+
+
+  
+
+ 
+   
